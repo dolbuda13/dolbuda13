@@ -8,6 +8,11 @@
 > 4. kotlin
 > 5. dart
 
-##관심있는 분야
+#관심있는 분야
 ------------
 >flutter
+
+
+#노션 링크
+--------------
+https://www.notion.so/flutter-5-1a02c63dec478065bee3fdb699769273
