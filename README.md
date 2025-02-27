@@ -13,6 +13,6 @@
 >flutter
 
 
-#내배캠 flutter 팀프로젝트 노션 링크
+#내배캠 flutter 팀프로젝트 노션 
 --------------
-https://www.notion.so/flutter-5-1a02c63dec478065bee3fdb699769273
+https://ebony-nylon-999.notion.site/flutter-5-1a02c63dec478065bee3fdb699769273?pvs=4
